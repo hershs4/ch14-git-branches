@@ -26,3 +26,4 @@ For this exercise, complete the following steps:
 10. Now `merge` the contents from `experiment` ___into___ `master`. Remember you'll want to switch to the `master` branch first (the one you are merging ___into___).
 
 pumpkin cream cheese muffin
+trying to see why this isn't working
